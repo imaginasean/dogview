@@ -1,0 +1,5 @@
+names:
+  0: dog
+path: dog_data
+train: images/train
+val: images/val
